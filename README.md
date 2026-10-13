@@ -2,8 +2,6 @@
 
 A playful, Pokémon‑themed personal portfolio. You land on a grassy field with a floating Poké Ball — tap it, it opens with a smooth animation, and you arrive at a clean profile page. The footer has a shared *"drop a Pokémon"* counter that grows as visitors stop by.
 
-🔗 **Live demo:** https://thezeroquotient.com/portfolio
-
 ---
 
 ## What's inside
@@ -59,5 +57,3 @@ The still `poster.png` is just the first frame, shown before the video plays.
 The Poké Ball, grassy backdrop, and Pokémon artwork are the intellectual property of **Nintendo / Game Freak / The Pokémon Company**. They're used here purely as a personal fan homage — this project is not affiliated with, sponsored by, or endorsed by them. If you build on this, please bring your own artwork. The **code** is free to learn from and adapt.
 
 ---
-
-Built by **Shivank Goel** · [thezeroquotient.com](https://thezeroquotient.com)
